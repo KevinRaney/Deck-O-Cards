@@ -1,0 +1,7 @@
+This repo contains 2 Objective-C classes, one for a single playing card and the other for a collection of playing cards, aka deck.
+
+The deck class contains all the mothods required for building the deck, adding jokers, shuffling, drawing a card and putting a card back in the deck randomly.
+
+It also contains the open source images for a playing card and there is a method you can call on the playing card that will return the image name for card.
+
+These are the actual classes/images used in the iOS Game "One Handed Solitaire" available on the App Store http://bit.ly/RDAOHS

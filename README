@@ -5,3 +5,5 @@ The deck class contains all the mothods required for building the deck, adding j
 It also contains the open source images for a playing card and there is a method you can call on the playing card that will return the image name for card.
 
 These are the actual classes/images used in the iOS Game "One Handed Solitaire" available on the App Store http://bit.ly/RDAOHS
+
+Card Images provided under the Lesser GNU Public License from http://ardisoft.net/svg-z-cards and http://code.google.com/p/vector-playing-cards/
